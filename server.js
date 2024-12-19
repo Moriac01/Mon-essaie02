@@ -1,1 +1,1 @@
-console.log("Hello Word 2026")
+console.log("Hello Word 2025")
